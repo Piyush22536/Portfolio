@@ -192,5 +192,3 @@ document.querySelectorAll('.skill-pill').forEach(pill => {
     this.style.boxShadow = '';
   });
 });
-
-
